@@ -1,3 +1,3 @@
 # hello-world
 
-I love snow!
+I love data
